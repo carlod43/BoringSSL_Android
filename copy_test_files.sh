@@ -1,4 +1,5 @@
-#!/bin/bash
+
+ #!/bin/bash
 
 ROOT=$PWD
 rm -vrf app/src/main/assets
